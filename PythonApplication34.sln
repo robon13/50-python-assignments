@@ -15,7 +15,7 @@
 
 
 
-table = []                                                                                       #0create table
+table = []                                                                                       #0 create table
 
 
 
@@ -71,3 +71,4 @@ for number in table:
           break
  
     
+
